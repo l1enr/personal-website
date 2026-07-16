@@ -1,2 +1,10 @@
 # personal-website
-A simple personal website built using HTML to introduce myself, my interests, skills, and contact information.
+
+## Description
+This is a simple personal website created using HTML.
+
+## Features
+- Personal introduction
+- About Me section
+- Skills section
+- Contact information
